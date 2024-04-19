@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#nav{
+    text-align: left;
+}
+a{
+    color:rgb(56, 56, 56);
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+}
+
+#image{
+    float:right
+}
+
+/* img{
+    float:right;
+} */
+
+#Resume{
+    color:rgb(56, 56, 56);
+    text-align: left;
+}
+
